@@ -1,16 +1,3 @@
-## easy-github-profile
-
-A zero-effort GitHub profile README setup. Fork it and your profile is live instantly — fully customizable, no coding required.
-
-> 👇 See setup instructions below.
-
-<br>
-
----
-
-> 👤 Example profile.
-
-<!-- PROFILE:START -->
 <img src="assets/header.svg" width="100%"/>
 <img src="assets/typing.svg" width="100%"/>
 <img src="assets/divider.svg" width="100%"/>
