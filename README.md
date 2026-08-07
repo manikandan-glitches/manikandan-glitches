@@ -119,8 +119,8 @@ All customization happens in `config.json`.
 ```json
 "typing": {
   "lines": [
-    ".NET & C# Developer",
-    "ASP.NET Core · Node.js"
+    "Java Developer",
+    "Backend - DevOps"
   ]
 }
 ```
@@ -188,8 +188,8 @@ To add a new label, add an object to the array and reference it in `README.md` w
 
 ```json
 "badges": [
-  { "text": "C#",         "color": "#1d7a1a" },
-  { "text": "JAVASCRIPT", "color": "#e0c910" }
+  { "text": "Java",         "color": "#1d7a1a" },
+  { "text": "SQL", "color": "#e0c910" }
 ]
 ```
 
