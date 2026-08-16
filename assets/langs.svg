@@ -43,11 +43,11 @@
 
   <!-- Colored segments -->
   <g clip-path="url(#bar-shape)">
-      <rect x="20" y="42" width="322" height="22" fill="#e34c26"/>
-      <rect x="342" y="42" width="215" height="22" fill="#b07219"/>
-      <rect x="557" y="42" width="106" height="22" fill="#3572A5"/>
-      <rect x="663" y="42" width="95" height="22" fill="#663399"/>
-      <rect x="758" y="42" width="23" height="22" fill="#f34b7d"/>
+      <rect x="20" y="42" width="302" height="22" fill="#e34c26"/>
+      <rect x="322" y="42" width="248" height="22" fill="#b07219"/>
+      <rect x="570" y="42" width="99" height="22" fill="#3572A5"/>
+      <rect x="669" y="42" width="89" height="22" fill="#663399"/>
+      <rect x="758" y="42" width="21" height="22" fill="#f34b7d"/>
   </g>
 
   <!-- Shimmer overlay on bar: diagonal rect translates across, clipped to bar -->
@@ -68,26 +68,26 @@
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="0.0s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="36" y="92.5" class="leg">HTML 42.4%</text>
+  <text x="36" y="92.5" class="leg">HTML 39.8%</text>
   <circle cx="177" cy="88" r="5" fill="#b07219">
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="0.4s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="188" y="92.5" class="leg">Java 28.3%</text>
+  <text x="188" y="92.5" class="leg">Java 32.6%</text>
   <circle cx="329" cy="88" r="5" fill="#3572A5">
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="0.8s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="340" y="92.5" class="leg">Python 13.9%</text>
+  <text x="340" y="92.5" class="leg">Python 13.0%</text>
   <circle cx="481" cy="88" r="5" fill="#663399">
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="1.2s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="492" y="92.5" class="leg">CSS 12.5%</text>
+  <text x="492" y="92.5" class="leg">CSS 11.7%</text>
   <circle cx="633" cy="88" r="5" fill="#f34b7d">
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="1.6s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="644" y="92.5" class="leg">C++ 3.0%</text>
+  <text x="644" y="92.5" class="leg">C++ 2.8%</text>
 
 </svg>
